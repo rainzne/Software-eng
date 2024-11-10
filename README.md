@@ -27,3 +27,5 @@ Fichier d’entrée : Assurez-vous qu’un fichier test.txt est présent dans le
 
 Compilez les fichiers Java avec la commande javac *.java.
 Exécutez le programme avec java main nomfichierATester.txt (ex java main facile.txt).
+
+Si la grille ne se resout pas en 10 secondes alors on passe a la prise en charge manuel
