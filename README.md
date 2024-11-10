@@ -24,8 +24,12 @@ Factory : notre factory
 
 Installation et Préparation
 Fichier d’entrée : Assurez-vous qu’un fichier test.txt est présent dans le répertoire racine du projet avec tout les fichiers .java. Ce fichier doit contenir 81 nombres séparés par des virgules (les cellules vides sont représentées par des 0, que le programme remplacera par -1 pour faciliter le traitement).
-
 Compilez les fichiers Java avec la commande javac *.java.
 Exécutez le programme avec java main nomfichierATester.txt (ex java main facile.txt).
 
-Si la grille ne se resout pas en 10 secondes alors on passe a la prise en charge manuel
+Sinon utiliser notre fichier .jar (  Projet_malaussena.jar) : télecharger le et ouvrer un ide ou un terminal puis faite depuis la racine d'ou vous vous trouvez une des trois manipulations :
+                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar facile.txt 
+                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar moyen.txt
+                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar hard.txt
+
+(Si la grille ne se resout pas en 10 secondes alors on passe a la prise en charge manuel)
