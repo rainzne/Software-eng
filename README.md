@@ -28,8 +28,8 @@ Compilez les fichiers Java avec la commande javac *.java.
 Exécutez le programme avec java main nomfichierATester.txt (ex java main facile.txt).
 
 Sinon utiliser notre fichier .jar (  Projet_malaussena.jar) : télecharger le et ouvrer un ide ou un terminal puis faite depuis la racine d'ou vous vous trouvez une des trois manipulations :
-                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar facile.txt 
-                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar moyen.txt
+                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar facile.txt  ou bien
+                                                                                                                                                                  java -jar --enable-preview .\Projet_malaussena.jar moyen.txt   ou bien 
                                                                                                                                                                   java -jar --enable-preview .\Projet_malaussena.jar hard.txt
 
 (Si la grille ne se resout pas en 10 secondes alors on passe a la prise en charge manuel)
