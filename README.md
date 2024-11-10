@@ -23,7 +23,7 @@ Observable et Observer: notre design pattern observer
 Factory : notre factory
 
 Installation et Préparation
-Fichier d’entrée : Assurez-vous qu’un fichier test.txt est présent dans le répertoire racine du projet. Ce fichier doit contenir 81 nombres séparés par des virgules (les cellules vides sont représentées par des 0, que le programme remplacera par -1 pour faciliter le traitement).
+Fichier d’entrée : Assurez-vous qu’un fichier test.txt est présent dans le répertoire racine du projet avec tout les fichiers .java. Ce fichier doit contenir 81 nombres séparés par des virgules (les cellules vides sont représentées par des 0, que le programme remplacera par -1 pour faciliter le traitement).
 
 Compilez les fichiers Java avec la commande javac *.java.
 Exécutez le programme avec java main nomfichierATester.txt (ex java main facile.txt).
